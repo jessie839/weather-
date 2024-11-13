@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(38, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cont {
+    text-align: center;
+    background:white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px ;
+
+
+}
+
+button {
+    padding: 5px 20px;
+    background: rgb(0, 255, 119);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#info {
+    margin-top:10px;
+}
